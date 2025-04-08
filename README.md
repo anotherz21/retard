@@ -1,0 +1,2 @@
+# retard
+fully open source
